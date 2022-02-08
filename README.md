@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Pieter.
 
-#### I'm Pieter. A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
+#### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
 
 
