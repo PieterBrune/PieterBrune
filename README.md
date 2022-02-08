@@ -2,6 +2,10 @@
 
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
+- 🔭 I’m currently working as a freelance fullstack developer.
+- 🏝️ I'm based in Canggu, Bali.
+- 🌱 I’m currently sharpening my skills in Ruby on Rails and learning React. 
+- 📫 How to reach me: https://www.linkedin.com/in/pietbrune/
 
 
 <!--
