@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm Pieter. A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
+
+
+
 <!--
 **PieterBrune/PieterBrune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
