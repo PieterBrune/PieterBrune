@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a freelance fullstack developer.
 - 🏝️ I'm based in Canggu, Bali.
-- 🌱 I’m currently sharpening my skills in Ruby on Rails and learning React. 
+- 🌱 I’m currently learning React. 
 - 📫 How to reach me: https://www.linkedin.com/in/pietbrune/
 
 
