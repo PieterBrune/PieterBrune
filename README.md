@@ -8,7 +8,7 @@
 - 🏝️ I'm based in Canggu, Bali.
 - 🌱 I’m currently sharpening my skills in Ruby on Rails and learning React. 
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> How to reach me: https://www.linkedin.com/in/pietbrune/ 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> How to reach me: https://www.linkedin.com/in/pietbrune/ 
 
 
 <!--
