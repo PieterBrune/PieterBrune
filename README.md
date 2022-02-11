@@ -1,4 +1,4 @@
-# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Pieter.
+# Hi there 👋 I'm Pieter.
 
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
