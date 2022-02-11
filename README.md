@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pieter.
+# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Pieter.
 
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
@@ -14,7 +14,7 @@
 
 ## Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
 
-<a href = 'https://www.linkedin.com/in/pietbrune/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'mailto: info@pieterbrune.com', target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/></a> <a href = 'https://www.linkedin.com/in/pietbrune/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
 <!--
