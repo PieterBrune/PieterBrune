@@ -15,9 +15,7 @@
 ## Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> 
 
 <a href = 'https://www.linkedin.com/in/pietbrune/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-          <a href="mailto: info@pieterbrune.com" class="social-media-icons" target="_blank">
-            <li><i class="far fa-envelope"></i></li>
-          </a>
+<a href="mailto: info@pieterbrune.com" target="_blank"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/</a>
 
 
 <!--
