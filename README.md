@@ -3,7 +3,7 @@
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
 - 🔭 I’m currently working as a freelance fullstack developer and data analyst.
-- 🌱 I’m currently sharpening my skills in Ruby on Rails and I'm interested in learning React.
+- 🌱 I’m currently sharpening my skills in Ruby on Rails and I'm learning Vue.js and Go.
 - 🍷 I'm a qualified winemaker.
 - 🏝️ I'm based in Bali, Indonesia.
 
