@@ -2,7 +2,7 @@
 
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
-- 🔭 I’m currently interning as a frontend developer at Sentinel (https://www.sentineltech.com/) whilst freelancing as a fullstack developer and data analyst.
+- 🔭 I’m currently interning as a frontend developer at <a href="https://www.sentineltech.com/">Sentinel</a> whilst freelancing as a fullstack developer and data analyst.
 - 🌱 I’m currently sharpening my skills in Ruby on Rails and learning Vue.js.
 - 🍷 I'm a qualified winemaker.
 - 🏝️ I'm based in Bali, Indonesia.
