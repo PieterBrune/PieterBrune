@@ -2,7 +2,7 @@
 
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
-- 🔭 I’m currently <a href="https://gitlab.com/pieter.b" target="_blank">contributing as a fullstack developer</a> at <a href="https://www.sentineltech.com/" target="_blank">Sentinel</a> whilst freelancing as a fullstack developer and data analyst.
+<!-- - 🔭 I’m currently <a href="https://gitlab.com/pieter.b" target="_blank">contributing as a fullstack developer</a> at <a href="https://www.sentineltech.com/" target="_blank">Sentinel</a> whilst freelancing as a fullstack developer and data analyst. -->
 - 🌱 I’m currently sharpening my skills in JavaScript and Vue.js.
 - 🍷 I'm a qualified winemaker.
 - 🏝️ I'm based in Bali, Indonesia.
@@ -20,8 +20,8 @@
 <a href = 'https://www.pieterbrune.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 <a href = 'https://www.linkedin.com/in/pietbrune/'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="mailto: info@pieterbrune.com"> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/17588/mail.svg"/></a>
-<a href = 'https://www.codewars.com/users/PieterBrune'> <img width = '32px' align= 'center' src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"/></a>
-<a href = 'https://gitlab.com/pieter.b'> <img width = '32px' align= 'center' src="https://img.icons8.com/color/344/gitlab.png"/></a>
+<!-- <a href = 'https://www.codewars.com/users/PieterBrune'> <img width = '32px' align= 'center' src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"/></a>
+<a href = 'https://gitlab.com/pieter.b'> <img width = '32px' align= 'center' src="https://img.icons8.com/color/344/gitlab.png"/></a> -->
 
 
 
