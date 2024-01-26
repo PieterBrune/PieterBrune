@@ -3,9 +3,9 @@
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
 <!-- - 🔭 I’m currently <a href="https://gitlab.com/pieter.b" target="_blank">contributing as a fullstack developer</a> at <a href="https://www.sentineltech.com/" target="_blank">Sentinel</a> whilst freelancing as a fullstack developer and data analyst. -->
-- 🌱 I’m currently sharpening my skills in JavaScript and Vue.js.
+- 🌱 I’m currently pursuing a Masters in Engineering Management through Stellenbosch University.
 - 🍷 I'm a qualified winemaker.
-- 🏝️ I'm based in Bali, Indonesia.
+- 🏝️ I'm travelling the world making wine and working on providing technological solutions for wineries.
 
 
 
