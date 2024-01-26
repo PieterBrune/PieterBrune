@@ -17,10 +17,10 @@
 <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">  -->
 
 
-<a href = 'https://www.pieterbrune.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+<!-- <a href = 'https://www.pieterbrune.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> -->
 <a href = 'https://www.linkedin.com/in/pietbrune/'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href="mailto: info@pieterbrune.com"> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/17588/mail.svg"/></a>
-<!-- <a href = 'https://www.codewars.com/users/PieterBrune'> <img width = '32px' align= 'center' src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"/></a>
+<!-- <a href="mailto: info@pieterbrune.com"> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/17588/mail.svg"/></a>
+<a href = 'https://www.codewars.com/users/PieterBrune'> <img width = '32px' align= 'center' src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"/></a>
 <a href = 'https://gitlab.com/pieter.b'> <img width = '32px' align= 'center' src="https://img.icons8.com/color/344/gitlab.png"/></a> -->
 
 
