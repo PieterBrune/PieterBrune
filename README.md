@@ -3,9 +3,11 @@
 #### A graduate of Le Wagon's <a href="https://www.lewagon.com/">Fullstack Web Development Bootcamp.</a>
 
 <!-- - 🔭 I’m currently <a href="https://gitlab.com/pieter.b" target="_blank">contributing as a fullstack developer</a> at <a href="https://www.sentineltech.com/" target="_blank">Sentinel</a> whilst freelancing as a fullstack developer and data analyst. -->
-- 🌱 I’m currently pursuing a Masters in Engineering Management through Stellenbosch University.
-- 🍷 I'm a qualified winemaker.
-- 🏝️ I'm travelling the world making wine and working on providing technological solutions for wineries.
+- 🚀 Founder of DigiTaste
+- 🌱 Driving innovation in agriculture
+- 👨‍🚀 Masters in Engineering Management (MEM).
+- 🍷 Qualified winemaker.
+<!-- - 🏝️ I'm travelling the world making wine and working on providing technological solutions for wineries. -->
 
 
 
